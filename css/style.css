@@ -21,3 +21,65 @@ body {
     font-size: 40px;
     letter-spacing: 10px; }
   
+    .container-fluid
+
+{
+    height:80vh;
+    background-color:#f9cb6d;
+    margin-top: 0px;
+    text-align:center;
+    font-family: 'Sacramento', cursive;
+    
+}
+.button
+{
+   
+    font-family: 'Norican', cursive;
+    font-size:40px;
+  
+}
+
+.display-3
+{
+   padding-top:15px;
+}
+
+.img
+{
+    float:left;
+}
+
+.text-left
+
+{
+    display:flex;
+    text-align:left;
+    height:180px;
+}
+
+.text-left
+{
+    margin-left: 20px;
+    float:left;
+}
+
+.btn btn-dark
+{
+    display:block;
+    clear:both;
+    padding-left: 30px;
+    
+    
+}
+
+.d-block {
+    height: 350px;
+    width:100%;
+}
+
+.btn-group-lg
+
+{
+    font-size:40px;
+    
+}
