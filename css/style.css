@@ -1,0 +1,23 @@
+body {
+    background-color: brown; }
+  
+  .jumbotron {
+    background: url("../img/restaurant.jpeg") center/cover no-repeat;
+    height: 80vh;
+    margin-top: 5%;
+    font-family: 'Sacramento', cursive;
+    color: #fff;
+    text-align: center;
+    padding-top: 10px; }
+  
+  header .jumbotron h1 {
+    padding-top: 60px;
+    font-size: 100px; }
+  
+  .jumbotron hr {
+    background-color: #fff; }
+  
+  p {
+    font-size: 40px;
+    letter-spacing: 10px; }
+  
