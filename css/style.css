@@ -21,82 +21,50 @@ body {
     font-size: 40px;
     letter-spacing: 10px; }
   
-    .container-fluid
-
-{
+    .container-fluid {
     height:80vh;
     background-color:#f9cb6d;
     margin-top: 0px;
     text-align:center;
-    font-family: 'Sacramento', cursive;
-    
-}
-.button
-{
+    font-family: 'Sacramento', cursive;}
+.button {
    
     font-family: 'Norican', cursive;
-    font-size:40px;
-  
-}
+    font-size:40px;}
 
-.display-3
-{
-   padding-top:15px;
-}
+.display-3 {
+   padding-top:15px;}
 
-.img
-{
-    float:left;
-}
+.img {
+    float:left;}
 
-.text-left
-
-{
+.text-left {
     display:flex;
     text-align:left;
-    height:180px;
-}
+    height:180px;}
 
-.text-left
-{
+.text-left {
     margin-left: 20px;
-    float:left;
-}
+    float:left;}
 
-.btn btn-dark
-{
+.btn btn-dark{
     display:block;
     clear:both;
-    padding-left: 30px;
-    
-    
-}
+    padding-left: 30px;}
 
 .d-block {
     height: 350px;
-    width:100%;
-}
+    width:100%;}
 
-.btn-group-lg
+.btn-group-lg {
+    font-size:40px;}
 
-{
-    font-size:40px;
-    
-}
-
-footer .container-fluid
-{
+footer .container-fluid {
     height:5vh;
     background-color:brown;
-    font-family: 'Roboto', sans-serif;
-   
+    font-family: 'Roboto', sans-serif;}
 
-    
-}
-
-footer .container-fluid p
-{
+footer .container-fluid p {
     font-size:20px;
     margin-top: 20px;
-    letter-spacing: 0;
-}
+    letter-spacing: 0;}
