@@ -41,9 +41,7 @@ body {
 .text-left {
     display:flex;
     text-align:left;
-    height:180px;}
-
-.text-left {
+    height:180px;
     margin-left: 20px;
     float:left;}
 
