@@ -83,3 +83,20 @@ body {
     font-size:40px;
     
 }
+
+footer .container-fluid
+{
+    height:5vh;
+    background-color:brown;
+    font-family: 'Roboto', sans-serif;
+   
+
+    
+}
+
+footer .container-fluid p
+{
+    font-size:20px;
+    margin-top: 20px;
+    letter-spacing: 0;
+}
